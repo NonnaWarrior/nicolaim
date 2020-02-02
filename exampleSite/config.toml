@@ -1,4 +1,4 @@
-baseURL = "http://nicogala.it"
+baseURL = "https://nicolagala.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
