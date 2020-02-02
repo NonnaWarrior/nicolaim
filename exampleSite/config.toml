@@ -2,7 +2,7 @@ baseURL = "http://nicogala.it"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Nicola.im - I am Nicola"
+title = "NicoGala.it - I am Nicola"
 [[menu.main]]
 URL = "about"
 name = "About"
